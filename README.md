@@ -22,4 +22,8 @@ flutter packages get
 
 6. Agregar un botón (en cualquier lugar de la pantalla) que revise si el contador de likes es impar muestra un diálogo con la fecha y hora, si es par muestra un diálogo con el texto “El contador de likes es par”
 
-7. Los diálogos deben tener un título, descripción y un botón para salir deldiálogo
+7. Los diálogos deben tener un título, descripción y un botón para salir del diálogo
+
+
+## Arquitectura
+![Arquitectura](Arquitectura.png)
